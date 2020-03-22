@@ -1,3 +1,1 @@
-# bitcenter
-
-telegram-bot for bitnation
+# Study CDH
